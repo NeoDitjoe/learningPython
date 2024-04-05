@@ -6,6 +6,6 @@ age = 22
 isTrue = True
 isFalse = False
 
-winner = 'name: ' + name + '\n' + 'Surname: ' + surname
+winner = 'name: ' + name + '\n' + 'Surname: ' + surname + '\n' +  ( 'Is winner: %s' %(isTrue))
 
-print()
+print(winner)
