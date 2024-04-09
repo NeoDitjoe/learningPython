@@ -5,12 +5,14 @@ while num <= 10:
   print(num)
   num += 1
 
-loop_condition = True
-
-while loop_condition:
-    print("Loop Condition keeps: %s" %(loop_condition))
-    loop_condition = False
-  
-#for
+# #for
 for i in range(num, 21):
-  print(i)
+  print('what is this %i' %(i))
+
+
+#Iterate over a string of objects
+people = [{"name": "neo", "age": 23}, {"name": "cozy", "age": 23}]
+
+for person in people:
+  print('My name is %s I am %i Years old' %(person['name'], person['age']))
+  

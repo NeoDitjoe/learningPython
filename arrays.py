@@ -8,4 +8,7 @@ relatives_names = [
   "Kaio"
 ]
 
-print(relatives_names[4])
+relatives_names.append('Neo') #push
+relatives_names.append('Cozy')
+
+print(relatives_names)
