@@ -41,4 +41,11 @@ print('Cozy' in str) #includes
 
 # print('Okay %s You are %s years old' %(name ,calculator))
 
-###Numbers
+###Intigers
+num = -23.5
+print(round(num))
+print(abs(num))
+
+import math
+print(math.floor(num))
+print(math.ceil(num))
