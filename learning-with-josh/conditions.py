@@ -13,6 +13,12 @@ else:
 cost = 'Down payment: R %i' %(down_payment)
 print(cost)
 
+
+
+
+
+
+
 name = 'Cozy4Real'
 
 if len(name) < 3:
@@ -23,6 +29,11 @@ else:
   message = 'Name looks good!'
   
 print(message)
+
+
+
+
+
 
 #input and conditions
 weight = input('Enter your weight: ')
