@@ -29,12 +29,16 @@ str = 'Cozy4Real'
 print(str[0:4])
 print(str[4:])
 print(str[3])
+print(str.replace('4', 'The'))
+print('Cozy' in str) #includes
 
 #input
-name = input('what is your name? ')
+# name = input('what is your name? ')
 
-age = input('Hi %s which year were you born? ' %(name))
+# age = input('Hi %s which year were you born? ' %(name))
 
-calculator = 2024 - int(age)
+# calculator = 2024 - int(age)
 
-print('Okay %s You are %s years old' %(name ,calculator))
+# print('Okay %s You are %s years old' %(name ,calculator))
+
+###Numbers
