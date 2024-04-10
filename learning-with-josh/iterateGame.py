@@ -4,11 +4,14 @@ limit = 3
 
 while tries < limit:
     guess_num = int(input('Guess: '))
+    tries += 1
     if tries >= 3:
         print('GameOver You lose!')
         break
-    elif num == guess_num:
-        print('Good Game You WIN!!!')
-        break
-    else:
-        tries += 1
+    # elif num == guess_num:
+    #     print('Good Game You WIN!!!')
+    #     break
+else:
+    print('Good Game You WIN!!!')
+
+
