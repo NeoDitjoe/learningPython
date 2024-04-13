@@ -56,7 +56,7 @@ print(results)
 
 
 # V2
-covert = {
+convert = {
   '1': 'One',
   '2': "Two",
   '3': 'Three'
@@ -65,5 +65,5 @@ covert = {
 output = ''
 
 for num in digits:
-  output += covert.get(num, '!?') + ' '
+  output += convert.get(num, '!?') + ' '
 print(output)

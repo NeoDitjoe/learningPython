@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b3fcf4c-8df9-46a5-a947-fb8dd75472d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learning-with-josh/guessGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-with-josh/iterateGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-with-josh/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning-with-josh/dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.carGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterateGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.learning-with-josh.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ditjo/OneDrive/Desktop/learningPython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.carGame.executor": "Run",
+    "Python.conditions.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.iterateGame.executor": "Run",
+    "Python.learning-with-josh.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ditjo/OneDrive/Desktop/learningPython",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
