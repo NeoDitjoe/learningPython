@@ -1,6 +1,6 @@
 
 class Point:
-  def __init__(self, num, num2, name):
+  def __init__(self, num, num2, name): #CONSTRUCTOR
     self.num = num
     self.num2 = num2
     self.name = name
