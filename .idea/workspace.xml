@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b3fcf4c-8df9-46a5-a947-fb8dd75472d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/learning-with-josh/errorHandling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-with-josh/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning-with-josh/dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Python.carGame.executor": "Run",
     "Python.conditions.executor": "Run",
     "Python.dictionaries.executor": "Run",
+    "Python.errorHandling.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.iterateGame.executor": "Run",
     "Python.learning-with-josh.executor": "Run",
