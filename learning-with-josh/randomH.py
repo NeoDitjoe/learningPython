@@ -1,4 +1,4 @@
-# #random
+#random
 import random
 
 keeper = 0
@@ -7,7 +7,7 @@ choice = ['John', 'Mary', 'Bob', "Cozy"]
 
 for i in range(4):
   keeper+= random.random()
-  keeper2+= random.randint(100, 1000) 
+  keeper2+= random.randint(100, 1000)
   
   
 print(keeper)
